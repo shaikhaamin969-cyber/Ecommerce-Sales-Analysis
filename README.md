@@ -34,3 +34,8 @@ This project analyzes an e-commerce superstore dataset to find business insights
 - A small number of customers generate a large portion of revenue.
 
 ## 📁 Project Structure
+Ecommerce-Sales-Analysis/
+ ├── analysis.ipynb
+ ├── Sample - Superstore.csv
+ └── README.md
+
